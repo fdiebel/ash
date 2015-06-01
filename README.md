@@ -3,7 +3,7 @@ Ash
 
 A minimalist ashtray with subtle geometry.
 
-![My image](https://github.com/fdiebel/ash/blob/master/img/01a.jpg)
+![Image](https://github.com/fdiebel/ash/blob/master/img/01a.jpg)
 
 Instructions
 --------
@@ -16,9 +16,11 @@ Disclaimer
 --------
 Don't blame me when/if you get lung cancer.
 
-Author: Floyd Diebel (fdiebel)
+Author
 --------
-<http://emrl.com/>  
+Floyd Diebel (fdiebel)
+* <http://emrl.com/>
+* <https://www.facebook.com/advertisingisnotacrime> 
 
 License
 --------

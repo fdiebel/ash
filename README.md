@@ -3,6 +3,8 @@ Ash
 
 A minimalist ashtray with subtle geometry.
 
+![My image](https://github.com/fdiebel/ash/blob/master/img/01a.jpg)
+
 Instructions
 --------
 * Print using non-flammable filament material

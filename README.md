@@ -8,8 +8,7 @@ A minimalist ashtray with subtle geometry.
 Instructions
 --------
 * Print using non-flammable filament material
-* Smoke and relax
-* Ponder the meaning of it all
+* Smoke, relax, and ponder the meaning of it all
 * Profit
 
 Disclaimer
